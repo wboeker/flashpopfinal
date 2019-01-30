@@ -29,10 +29,10 @@ class Button extends Component {
     const buttonClasses = colorClass + " " + sizeClass;
 
     return (
-      <div className={buttonClasses}>
-        <button onClick={onClick}>
+      <div className={buttonClasses} onClick={onClick}>
+        <span>
           { text }
-        </button>
+        </span>
       </div>
     );
   }
