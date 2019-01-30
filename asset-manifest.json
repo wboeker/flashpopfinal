@@ -1,15 +1,15 @@
 {
-  "main.css": "/Flash/static/css/main.7668a739.chunk.css",
-  "main.js": "/Flash/static/js/main.eef02855.chunk.js",
-  "main.js.map": "/Flash/static/js/main.eef02855.chunk.js.map",
-  "static/js/1.d6d3dd24.chunk.js": "/Flash/static/js/1.d6d3dd24.chunk.js",
-  "static/js/1.d6d3dd24.chunk.js.map": "/Flash/static/js/1.d6d3dd24.chunk.js.map",
-  "runtime~main.js": "/Flash/static/js/runtime~main.537883da.js",
-  "runtime~main.js.map": "/Flash/static/js/runtime~main.537883da.js.map",
-  "static/css/main.7668a739.chunk.css.map": "/Flash/static/css/main.7668a739.chunk.css.map",
-  "static/media/card.css": "/Flash/static/media/flashpopz-icon.23387a19.png",
-  "static/media/icons.css": "/Flash/static/media/baseline-cancel-24px.77fca812.svg",
-  "index.html": "/Flash/index.html",
-  "precache-manifest.2d41b41b256cd616ff9a6c6b23d64ca5.js": "/Flash/precache-manifest.2d41b41b256cd616ff9a6c6b23d64ca5.js",
-  "service-worker.js": "/Flash/service-worker.js"
+  "main.css": "/flashpopfinal/static/css/main.de8c1692.chunk.css",
+  "main.js": "/flashpopfinal/static/js/main.9dd86071.chunk.js",
+  "main.js.map": "/flashpopfinal/static/js/main.9dd86071.chunk.js.map",
+  "static/js/1.d6d3dd24.chunk.js": "/flashpopfinal/static/js/1.d6d3dd24.chunk.js",
+  "static/js/1.d6d3dd24.chunk.js.map": "/flashpopfinal/static/js/1.d6d3dd24.chunk.js.map",
+  "runtime~main.js": "/flashpopfinal/static/js/runtime~main.9b2df169.js",
+  "runtime~main.js.map": "/flashpopfinal/static/js/runtime~main.9b2df169.js.map",
+  "static/css/main.de8c1692.chunk.css.map": "/flashpopfinal/static/css/main.de8c1692.chunk.css.map",
+  "static/media/card.css": "/flashpopfinal/static/media/flashpopz-icon.23387a19.png",
+  "static/media/icons.css": "/flashpopfinal/static/media/baseline-cancel-24px.dc967562.svg",
+  "index.html": "/flashpopfinal/index.html",
+  "precache-manifest.3f376feaad5cd35bac9dd580b269c711.js": "/flashpopfinal/precache-manifest.3f376feaad5cd35bac9dd580b269c711.js",
+  "service-worker.js": "/flashpopfinal/service-worker.js"
 }
