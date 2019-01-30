@@ -15,7 +15,7 @@ class Carousel extends Component {
   renderTitleContent() {
     return (
       <div>
-        test title content
+        <img alt="flashpopz-large" src="flashpopz-large.png" height='200px'/>
       </div>
     )
   }
@@ -23,7 +23,9 @@ class Carousel extends Component {
   renderCardOne() {
     return (
       <div>
-        card one
+        <h1>高校</h1>
+        <h1>High School</h1>
+        <h2>高校生なら、月曜日から金曜日まで高校に行かなければなりません。</h2>
       </div>
     )
   }
@@ -31,23 +33,9 @@ class Carousel extends Component {
   renderCardTwo() {
     return (
       <div>
-        card two
-      </div>
-    )
-  }
-
-  renderCardThree() {
-    return (
-      <div>
-        card three
-      </div>
-    )
-  }
-
-  renderCardFour() {
-    return (
-      <div>
-        card four LAST CARD
+        <h1>新しい</h1>
+        <h1>New</h1>
+        <h2>新しい服を買って嬉しいです。</h2>
       </div>
     )
   }
@@ -61,10 +49,9 @@ class Carousel extends Component {
       case 2:
         return this.renderCardTwo();
       case 3:
-        return this.renderCardThree();
-      case 4:
-        return this.renderCardFour();
+        return null;
       default:
+        return this.renderTitleContent();
         return null;
     }
   }

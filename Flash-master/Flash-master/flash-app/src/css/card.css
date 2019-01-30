@@ -52,6 +52,7 @@
 
 .card__screens {
   height: 435px;
+  margin-top: 16px;
   clear: both;
   background-color: #0178CD;
   border-radius: 8px;
