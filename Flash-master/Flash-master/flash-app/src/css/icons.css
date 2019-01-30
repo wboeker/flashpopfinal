@@ -1,0 +1,10 @@
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.icon--cancel {
+    background-color: #3F6078;
+    -webkit-mask: url(../icons/baseline-cancel-24px.svg) no-repeat center;
+    mask: url(../icons/baseline-cancel-24px.svg) no-repeat center;
+}

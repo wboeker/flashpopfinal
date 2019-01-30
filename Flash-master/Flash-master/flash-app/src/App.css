@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  background-image: url(//assets2.iknow.jp/_assets/apps/common/sky-bg-9a9e5c46f4d6ed5431ecfc9553c57e3dcc96d9fcd3ba89aa6cb04394c710d9d1.jpg);
+  background-color: #389EE8;
+  background-size: cover;
+}
