@@ -53,9 +53,7 @@ class Card extends Component {
         </div>
 
         <div className='card__screens'>
-
-          <p>flashpopZ Content TBD</p>
-          <img alt="flashpopz-large" src="flashpopz-large.png" height='200px'/>
+          <h2>Season 1 Episode 1: Now the Flower Blooms</h2>
           <Carousel cardNumber={this.state.cardCount}/>
         </div>
 
