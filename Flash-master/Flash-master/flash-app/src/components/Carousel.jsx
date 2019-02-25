@@ -40,6 +40,16 @@ class Carousel extends Component {
     )
   }
 
+  renderCardThree() {
+    return (
+      <div>
+        <h1>自分</h1>
+        <h1>oneself</h1>
+        <h2>自分で日本語を勉強しています。</h2>
+      </div>
+    )
+  }
+
   renderContent(index) {
     switch(index) {
       case 0:
@@ -49,6 +59,8 @@ class Carousel extends Component {
       case 2:
         return this.renderCardTwo();
       case 3:
+        return this.renderCardThree();
+      case 4:
         return null;
       default:
         return this.renderTitleContent();
