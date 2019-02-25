@@ -64,7 +64,6 @@ class Carousel extends Component {
         return null;
       default:
         return this.renderTitleContent();
-        return null;
     }
   }
 

@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Button from "./Button.jsx";
 import Carousel from "./Carousel.jsx";
+import ProgressBar from "./ProgressBar.jsx";
 import '../css/card.css'
 import '../css/typography.css'
 import '../css/icons.css'
@@ -43,7 +44,7 @@ class Card extends Component {
           </a>
           <div className="card__panel__banner">
             <span>
-              Chihayafuru: Lesson 1
+              <ProgressBar totalQuestions="3" questionNum= {this.state.cardCount}/>
             </span>
           </div>
           <div className="card__panel__control-panel">
