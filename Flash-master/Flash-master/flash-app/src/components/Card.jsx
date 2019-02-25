@@ -44,7 +44,7 @@ class Card extends Component {
           </a>
           <div className="card__panel__banner">
             <span>
-              <ProgressBar totalQuestions="3" questionNum= {this.state.cardCount}/>
+              <ProgressBar totalQuestions={5} questionNum= {this.state.cardCount}/>
             </span>
           </div>
           <div className="card__panel__control-panel">
